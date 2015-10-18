@@ -6,11 +6,11 @@
 
 Hints :   
         ```
-        Scanner sc = new Scanner(new File("myNumbers"));
-        while (sc.hasNextLong()) {
-            long aLong = sc.nextLong();
-        }
-        sc.close();
+        Scanner sc = new Scanner(new File("myNumbers"));   
+        while (sc.hasNextLong()) {    
+            long aLong = sc.nextLong();    
+        }    
+        sc.close();    
         ```
         
 
