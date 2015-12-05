@@ -1,0 +1,22 @@
+Effective 29 March 2015 to 24 October 2015||| 
+
+To Singapore from:||| 
+
+Sector|Days|Flight|Dep/Arr (Local Time) 
+
+Bengaluru (BLR)|Mon,Wed,Fri,Sat|MI 423|1650/0945
+
+Chennai (MAA)|Fri,Sat,Sun|MI 435|1720/1030
+
+Hyderabad (HYD)|Sat,Sun|MI 471|0750/0045
+
+Hyderabad (HYD)|Mon,Tue,Wed,Thu,Fri,Sat,Sun|MI 473|0610+1/2300
+
+Kolkata (CCU)|Tue,Thu,Sun|MI 487|0640+1/2350
+
+Kolkata (CCU)|Tue,Thu,Sun|SQ 503|0640+1/2350
+
+Kolkata (CCU)|Mon,Wed,Fri,Sat|SQ 517|0640+1/2350
+
+Kolkata (CCU)|Mon,Wed,Fri,Sat|SQ 529|0640+1/2350
+
