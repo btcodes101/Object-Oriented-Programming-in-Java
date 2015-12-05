@@ -15,9 +15,6 @@ This is a collection of my lab assignments for the course Object Oriented Progra
 
 The course was really enjoyable as it gave me a good exposure to the basics of Java SE. I hope to utilise this knowledge in my future endevours.
 
-
-
-Update : I posted about <a href = "http://beingsimpleisgood.blogspot.in/2015/11/applet-programming-in-java-basics.html">Applets</a> on my blog <a href = "http://beingsimpleisgood.blogspot.in">Life As I See It! </a>
 At the end of the course, we were given a project to work with teams.
 
 --> <a href = "">Click Here  to know more about my project !</a>
@@ -28,3 +25,4 @@ Throughout the course, we were encouraged to use the javadocs and tutorials avai
 
 The one thing that left a deep impression on me was the constant focus on good design principles, that made us look for alternative solutions that looked more complicated at the first look, but represented the problem more clearly. 
 
+Update : I posted about <a href = "http://beingsimpleisgood.blogspot.in/2015/11/applet-programming-in-java-basics.html">Applets</a> on my blog <a href = "http://beingsimpleisgood.blogspot.in">Life As I See It! </a>
