@@ -1,6 +1,6 @@
 # Object-Oriented-Programming-in-Java
 
-This is a collection of my lab assignments for the course Object Oriented Programming (CS-504d). In this course, we came to know about the various OOP principles and how OOP can help us in getting a better design for our solution. We also came to know about how JAVA implements these OOP principles and what are the system defined packages and classes that help us in doing the same. We also learnt about UML and how to model real life problems. We learnt how to model problems in UML and then implement the solution through Java.  
+This is a collection of my lab assignments for the course Object Oriented Programming (CS-594d). In this course, we came to know about the various OOP principles and how OOP can help us in getting a better design for our solution. We also came to know about how JAVA implements these OOP principles and what are the system defined packages and classes that help us in doing the same. We also learnt about UML and how to model real life problems. We learnt how to model problems in UML and then implement the solution through Java.  
 
 1. <a href = "https://github.com/bhaskarcodes/Object-Oriented-Programming-in-Java/tree/master/Week%200">Week 0 : Hello World!</a><br />
 2. <a href = "https://github.com/bhaskarcodes/Object-Oriented-Programming-in-Java/tree/master/Week%208">Week 1 : Java Fundamentals - Data Types, Control Loops</a><br />
@@ -17,9 +17,11 @@ The course was really enjoyable as it gave me a good exposure to the basics of J
 
 At the end of the course, we were given a project to work with teams.
 
---> <a href = "">Click Here  to know more about my project</a>
+--> <a href = "">Click Here  to know more about my project !</a>
 
 I have added Questions for all the Weeks for those who wish to practice and master core Java skills. Try solving yourselves first, before refering to the solutions. 
 
 Throughout the course, we were encouraged to use the javadocs and tutorials available on the <a href = "https://docs.oracle.com/javase/tutorial/">Oracle's Official Website</a>. It is crucial to be able to look for solutions ,debug code by refering to the official documentation and online resources. 
+
+The one thing that left a deep impression on me was the constant focus on good design principles, that made us look for alternative solutions that looked more complicated at the first look, but represented the problem more clearly. 
 
