@@ -17,7 +17,7 @@ The course was really enjoyable as it gave me a good exposure to the basics of J
 
 At the end of the course, we were given a project to work with teams.
 
---> <a href = "">Click Here  to know more about my project !</a>
+--> <a href = "https://github.com/bhaskarcodes/Quarks">Click Here  to know more about my project !</a>
 
 I have added Questions for all the Weeks for those who wish to practice and master core Java skills. Try solving yourselves first, before refering to the solutions. 
 
