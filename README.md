@@ -24,5 +24,3 @@ I have added Questions for all the Weeks for those who wish to practice and mast
 Throughout the course, we were encouraged to use the javadocs and tutorials available on the <a href = "https://docs.oracle.com/javase/tutorial/">Oracle's Official Website</a>. It is crucial to be able to look for solutions ,debug code by refering to the official documentation and online resources. 
 
 The one thing that left a deep impression on me was the constant focus on good design principles, that made us look for alternative solutions that looked more complicated at the first look, but represented the problem more clearly. 
-
-Update : I posted about <a href = "http://beingsimpleisgood.blogspot.in/2015/11/applet-programming-in-java-basics.html">Applets</a> on my blog <a href = "http://beingsimpleisgood.blogspot.in">Life As I See It! </a>
